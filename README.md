@@ -32,20 +32,21 @@ My name is Redouane. I am a physics teacher in Morocco and currently a student a
     <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Drihmia" alt="Drihmia" />
 </p>
 <p align="center">
-    <img align="center" src="https://gpvc.arturio.dev/Drihmia" alt="Drihmia" />
+    <img align="center" src="https://github.com/Drihmia.png?size=200" alt="Drihmia" />
 </p>
 
 <div align="center">  
   <img style="margin: 10px" src="https://icon-library.com/images/bash-icon/bash-icon-24.jpg" alt="Bash" height="50" />
   <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/c-original.svg" alt="C" height="50" />  
   <img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" alt="Python" height="50" />  
+
 <div align="center">
 
 ### 📫 How to reach me:
 
-- [LinkedIn](https://www.linkedin.com/in/rdrihmia/)<!-- target="_blank" -->
-- [Twitter](https://twitter.com/RDrihmia/)<!-- target="_blank" -->
-- [Email](mailto:drihmia.redouane@gmail.com)<!-- target="_blank" -->
-
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/rdrihmia/)
+[![Twitter](https://img.shields.io/badge/Twitter-Follow-1DA1F2)](https://twitter.com/RDrihmia)
+[![Email](https://img.shields.io/badge/Email-Send%20Mail-red)](mailto:drihmia.redouane@gmail.com)
 
 </div>
+
