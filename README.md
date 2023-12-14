@@ -39,8 +39,12 @@ My name is Redouane. I am a physics teacher in Morocco and currently a student a
   <img style="margin: 10px" src="https://icon-library.com/images/bash-icon/bash-icon-24.jpg" alt="Bash" height="50" />
   <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/c-original.svg" alt="C" height="50" />  
   <img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" alt="Python" height="50" />  
-</div>
-<div align="center">  
-📫 How to reach me : [Linkedin](https://www.linkedin.com/in/rdrihmia/)  [X](https://twitter.com/RDrihmia)  [E-mail](drihmia.redouane@gmail.com).
-</div>
+<div align="center">
 
+### 📫 How to reach me:
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/rdrihmia/)
+[![Twitter](https://img.shields.io/badge/Twitter-Follow-1DA1F2)](https://twitter.com/RDrihmia)
+[![Email](https://img.shields.io/badge/Email-Send%20Mail-red)](mailto:drihmia.redouane@gmail.com)
+
+</div>
