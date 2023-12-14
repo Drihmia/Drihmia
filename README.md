@@ -1,8 +1,3 @@
-- 👋 Hi, I’m @Drihmia
-- 👀 I’m interested in tech field.
-- 🌱 I’m currently learning [C programming language](https://github.com/Drihmia/alx-low_level_programming).
-- 💞️ I’m looking to collaborate on some basic python projects and c projects until what [I have learned](https://github.com/Drihmia/alx-low_level_programming/blob/main/README.md)
-
 <!---
 Drihmia/Drihmia is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
@@ -31,11 +26,9 @@ My name is Redouane. I am a physics teacher in Morocco and currently a student a
 <p align="center">
     <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Drihmia" alt="Drihmia" />
 </p>
-<p align="center">
-    <img align="center" src="https://github.com/Drihmia.png?size=200" alt="Drihmia" />
-</p>
+<p align="center">DRIHMIA Redouane</p>
 
-<div align="center">  
+<div align="center"> 
   <img style="margin: 10px" src="https://icon-library.com/images/bash-icon/bash-icon-24.jpg" alt="Bash" height="50" />
   <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/c-original.svg" alt="C" height="50" />  
   <img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" alt="Python" height="50" />  
