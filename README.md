@@ -43,8 +43,9 @@ My name is Redouane. I am a physics teacher in Morocco and currently a student a
 
 ### 📫 How to reach me:
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/rdrihmia/){:target="_blank"}
-[![Twitter](https://img.shields.io/badge/Twitter-Follow-1DA1F2)](https://twitter.com/RDrihmia){:target="_blank"}
-[![Email](https://img.shields.io/badge/Email-Send%20Mail-red)](mailto:drihmia.redouane@gmail.com){:target="_blank"}
+- [LinkedIn](https://www.linkedin.com/in/rdrihmia/)<!-- target="_blank" -->
+- [Twitter](https://twitter.com/RDrihmia/)<!-- target="_blank" -->
+- [Email](mailto:drihmia.redouane@gmail.com)<!-- target="_blank" -->
+
 
 </div>
